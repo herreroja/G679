@@ -7,14 +7,6 @@
 - **Instructor:** Jose Angel Herrero Velasco
 - **Lecture:** Tuesday and Wednesday (2017)
 
-[AIMS for this course](./AIMS.md)
-
-[REQUIREMENTS](./REQUIREMENTS.md)
-
-[BIBLIOGRAPHY](./BIBLIOGRAPHY.md)
-
-[SCHEDULE](./Mngm/schedule_2017.pdf)
-
 LECTURE NOTES:
 -------------
 
